@@ -1,3 +1,4 @@
 *.FCStd1
 *.step
 *.stl
+*.gcode
